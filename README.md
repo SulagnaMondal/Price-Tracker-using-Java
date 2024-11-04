@@ -19,10 +19,7 @@ Jsoup Library: jsoup-1.14.3.jar
 Getting Started
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/yourusername/PriceTracker.git
-cd PriceTracker
+
 Add External Libraries<br> Ensure the downloaded .jar files (Twilio and Jsoup) are added to your classpath or placed in the lib/ folder within your project.
 
 Configure the Twilio Credentials<br> In the PriceTrackerGUI.java file, replace the placeholder values for ACCOUNT_SID and AUTH_TOKEN with your actual Twilio account credentials.
